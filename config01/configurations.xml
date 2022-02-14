@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<settings>
+     <carrier
+        operatorID="retar">
+        <component
+            classname="com.motorola.brapps.ui.ClaroCoActivityImpl"
+            enabled="true" >
+            <shortcut x="2" y="2" screen="0" replace="true" />
+        </component>
+    </carrier>
+    <carrier
+        operatorID="retar"
+        plmn="72402" >
+        <component
+            classname="com.motorola.brapps.ui.AttMxUnefonActivityImpl"
+            enabled="true" >
+            <shortcut x="0" y="2" screen="0" replace="true" />
+        </component>
+        <component
+            classname="com.motorola.brapps.ui.ClaroCoActivityImpl"
+            enabled="false" >
+        </component>
+    </carrier>
+    <carrier
+        operatorID="retar"
+        plmn="72411" >
+        <component
+            classname="com.motorola.brapps.ui.TelcelMxActivityImpl"
+            enabled="true" >
+            <shortcut x="1" y="2" screen="0" replace="true" />
+        </component>
+        <component
+            classname="com.motorola.brapps.ui.ClaroCoActivityImpl"
+            enabled="false" >
+        </component>
+    </carrier>
+    <carrier
+        operatorID="retbr"
+        plmn="72402"
+        spn="TIM" >
+        <component
+            classname="com.motorola.brapps.ui.BrAppsActivityImpl"
+            enabled="true" >
+            <shortcut x="1" y="2" screen="0" replace="true" />
+        </component>
+    </carrier>
+    <carrier
+        operatorID="retbr"
+        plmn="72402">
+        <component
+            classname="com.motorola.brapps.ui.BrAppsActivityImpl"
+            enabled="true" >
+            <shortcut x="0" y="0" screen="0" replace="true" />
+        </component>
+    </carrier>
+</settings>

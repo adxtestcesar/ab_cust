@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<settings>
+    <carrier
+        operatorID="oibr">
+        <component
+            classname="com.motorola.brapps.ui.OiBrActivityImpl"
+            enabled="true" >
+            <shortcut x="1" y="4" screen="0" replace="true" />
+        </component>
+    </carrier>
+    <carrier
+        operatorID="timbr">
+        <component
+            classname="com.motorola.brapps.ui.TimBrActivityImpl"
+            enabled="true" >
+            <shortcut x="1" y="4" screen="0" replace="true" />
+        </component>
+    </carrier>
+    <carrier
+        operatorID="tefbr">
+        <component
+            classname="com.motorola.brapps.ui.VivoBrActivityImpl"
+            enabled="true">
+            <shortcut x="1" y="4" screen="0" replace="true" />
+        </component>
+    </carrier>
+    <carrier
+        operatorID="amxbr">
+        <component
+            classname="com.motorola.brapps.ui.ClaroBrActivityImpl"
+            enabled="true" >
+            <shortcut x="1" y="4" screen="0" replace="true" />
+        </component>
+    </carrier>
+    <carrier
+        operatorID="retbr">
+        <component
+            classname="com.motorola.brapps.ui.BrAppsActivityImpl"
+            enabled="true" >
+            <shortcut x="1" y="4" screen="0" replace="true" />
+        </component>
+    </carrier>
+    <carrier
+        operatorID="retar">
+        <component
+            classname="com.motorola.brapps.ui.EntelPeActivityImpl"
+                       enabled="true" >
+            <shortcut x="1" y="4" screen="0" replace="true" />
+        </component>
+    </carrier>
+</settings>
