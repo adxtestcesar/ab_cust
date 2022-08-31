@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <settings>
      <carrier
-        operatorID="retar">
+        operatorID="openbr">
         <component
             classname="com.motorola.brapps.ui.ClaroCoActivityImpl"
             enabled="true" >
@@ -9,7 +9,7 @@
         </component>
     </carrier>
     <carrier
-        operatorID="retar"
+        operatorID="openbr"
         plmn="72402" >
         <component
             classname="com.motorola.brapps.ui.AttMxUnefonActivityImpl"
@@ -22,7 +22,7 @@
         </component>
     </carrier>
     <carrier
-        operatorID="retar"
+        operatorID="openbr"
         plmn="72411" >
         <component
             classname="com.motorola.brapps.ui.TelcelMxActivityImpl"
