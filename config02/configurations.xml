@@ -41,7 +41,7 @@
         </component>
     </carrier>
     <carrier
-        operatorID="retar">
+        operatorID="openbr">
         <component
             classname="com.motorola.brapps.ui.EntelPeActivityImpl"
                        enabled="true" >
