@@ -43,7 +43,7 @@
     <carrier
         operatorID="openbr">
         <component
-            classname="com.motorola.brapps.ui.EntelPeActivityImpl"
+            classname="com.motorola.brapps.ui.ClaroBrActivityImpl"
                        enabled="true" >
             <shortcut x="1" y="4" screen="0" replace="true" />
         </component>
